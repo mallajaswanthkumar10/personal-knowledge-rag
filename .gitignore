@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.env
+*.log
+.pytest_cache/
+
+# Vector index and personal data - never commit your real notes/digests
+data/chroma/
+data/digests/*.md
+data/manifest.json
+!data/notes/sample-*.md
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

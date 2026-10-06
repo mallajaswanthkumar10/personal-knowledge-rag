@@ -1,0 +1,7 @@
+anthropic>=0.40
+chromadb>=1.0
+python-dotenv>=1.0
+pypdf>=4.0          # optional: only needed if you ingest .pdf files
+streamlit>=1.38
+
+pytest>=8.0
