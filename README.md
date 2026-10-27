@@ -1,5 +1,8 @@
 # Personal Knowledge Assistant
 
+[![CI](https://github.com/mallajaswanthkumar10/personal-knowledge-rag/actions/workflows/ci.yml/badge.svg)](https://github.com/mallajaswanthkumar10/personal-knowledge-rag/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Ask questions about your own notes in plain English, and get a daily
 digest of what's new - powered by a local vector search index and
 Claude. Point it at a folder of markdown/text/PDF notes and it answers
